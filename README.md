@@ -1,3 +1,3 @@
 # SceneSwitcher
 ## UML Diagram
-![created with https://www.draw.io](UML Diagram.png)
+![created](https://i.imgur.com/b354Rrr.png)
