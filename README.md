@@ -29,7 +29,7 @@ And the second advantage of Java is that it will be executable on Mac/Linux as w
   * Settings
   * DebugMode
 * Objects for handling Database
-* Detecting pixel and changes (THREAD)
+* Detecting Pixel and Changes (THREAD)
 * Simulate Hotkeys
 * MultiLanguage Support
   * German
