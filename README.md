@@ -18,7 +18,10 @@ And the second advantage of Java is that it will be executable on Mac/Linux as w
 ### Lifecycle of the tracking process
 ![The lifecycle of the tracking Thread](https://i.imgur.com/jq6r67A.png)
 
-### TODO
+## UML Diagram
+![UML Diagram created with draw.io](https://i.imgur.com/b354Rrr.png)
+
+## TODO
 * Add h2/ormlite Database
   * load/save Objects (Settings)
 * Create the GUI
@@ -31,6 +34,3 @@ And the second advantage of Java is that it will be executable on Mac/Linux as w
 * MultiLanguage Support
   * German
   * English
-
-## UML Diagram
-![UML Diagram created with draw.io](https://i.imgur.com/b354Rrr.png)
