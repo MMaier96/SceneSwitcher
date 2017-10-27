@@ -15,6 +15,7 @@ public class Main extends Application {
 	public void start(Stage primaryStage) throws IOException {
 		Parent root = null;
 		MainWindow controller = new MainWindow(primaryStage);
+		primaryStage.setTitle("Scene Switcher - MMaier96180 [Open Source]");
 		
 		FXMLLoader loader = new FXMLLoader(getClass().getResource("../fxml/MainWindow.fxml"));
 		loader.setController(controller);
