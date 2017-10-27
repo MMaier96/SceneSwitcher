@@ -16,7 +16,7 @@ The soft version of tracking what scene you want to have is by tracking specific
 And the second advantage of Java is that it will be executable on Mac/Linux as well, where C/C++ would offer a few problems.
 
 ### Lifecycle of the tracking process
-![The lifecycle of the tracking Thread](https://imgur.com/9cc424db-44b5-471f-980e-eb4011c917a5)
+![The lifecycle of the tracking Thread](https://i.imgur.com/jq6r67A.png)
 ###TODO
 ```text
 - Add h2/ormlite Database
