@@ -19,18 +19,18 @@ And the second advantage of Java is that it will be executable on Mac/Linux as w
 ![The lifecycle of the tracking Thread](https://i.imgur.com/jq6r67A.png)
 
 ###TODO
-- Add h2/ormlite Database
--- load/save Objects (Settings)
-- Create the GUI
--- SceneViewer
--- Settings
--- DebugMode
-- Objects for handling Database
-- Detecting pixel and changes (THREAD)
-- Simulate Hotkeys
-- MultiLanguage Support
--- German
--- English
+* Add h2/ormlite Database
+  * load/save Objects (Settings)
+* Create the GUI
+  * SceneViewer
+  * Settings
+  * DebugMode
+* Objects for handling Database
+* Detecting pixel and changes (THREAD)
+* Simulate Hotkeys
+* MultiLanguage Support
+  * German
+  * English
 
 ## UML Diagram
 ![UML Diagram created with draw.io](https://i.imgur.com/b354Rrr.png)
