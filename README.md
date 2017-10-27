@@ -18,7 +18,7 @@ And the second advantage of Java is that it will be executable on Mac/Linux as w
 ### Lifecycle of the tracking process
 ![The lifecycle of the tracking Thread](https://i.imgur.com/jq6r67A.png)
 
-###TODO
+### TODO
 * Add h2/ormlite Database
   * load/save Objects (Settings)
 * Create the GUI
