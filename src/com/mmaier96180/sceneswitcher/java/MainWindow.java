@@ -11,6 +11,7 @@ public class MainWindow {
 
 	@FXML
 	public void initialize() {
+		//init window here
 	}
 
 	public MainWindow(Stage primaryStage) {
