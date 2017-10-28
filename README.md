@@ -26,6 +26,7 @@ And the second advantage of Java is that it will be executable on Mac/Linux as w
   * load/save Objects (Settings)
 * Create the GUI
   * SceneViewer
+    * Table for active Scenes
   * Settings
   * DebugMode
 * Objects for handling Database
