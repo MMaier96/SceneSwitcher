@@ -5,14 +5,16 @@
 <?import javafx.scene.control.ListView?>
 <?import javafx.scene.control.Tab?>
 <?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="492.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="452.0" prefWidth="492.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <TabPane prefHeight="400.0" prefWidth="492.0" side="LEFT" tabClosingPolicy="UNAVAILABLE">
+      <TabPane prefHeight="452.0" prefWidth="492.0" side="LEFT" tabClosingPolicy="UNAVAILABLE">
         <tabs>
           <Tab text="Scenes">
                <content>
@@ -59,6 +61,16 @@
                               </VBox>
                            </children>
                         </HBox>
+                        <TableView prefHeight="200.0" prefWidth="200.0">
+                          <columns>
+                            <TableColumn prefWidth="102.0" text="Active Scene" />
+                            <TableColumn prefWidth="48.0" text="Pixel" />
+                              <TableColumn prefWidth="77.0" text="Actual Pixel" />
+                          </columns>
+                           <VBox.margin>
+                              <Insets bottom="20.0" left="50.0" right="50.0" />
+                           </VBox.margin>
+                        </TableView>
                      </children>
                   </VBox>
                </content>
